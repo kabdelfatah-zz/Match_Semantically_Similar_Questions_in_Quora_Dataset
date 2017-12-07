@@ -5,8 +5,9 @@ This is a python work for playing with Quora dataset during Pattern Recognition 
 ## Dependencies
 
 This software is dependent on the following packages: 
-* numpy, 
-* keras, 
+* numpy 
+* Pandas
+* keras 
 
 ## Contents
 
